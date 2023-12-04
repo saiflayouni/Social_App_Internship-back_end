@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nabula-gaming",
+  "private_key_id": "9c1cd699a20aa635d292f04a7e63b2ffc77a2594",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCfGqFqzewvgRm\nuWsitwz+oNUOlmSFs3Gi75sb8zSjWcDXJhRbrLASWcIW3z6ea8jgkeupKNdgVlTZ\nr06OI1gQLw8lnpBi7qYnE0nvNxk7XbDZ9jJzEaYbKws/MbLcyguBItykQF4N4mFP\nUsZgXcuWsAzPmSyO716AGTVDd20FbKETsq9R1zgsZquOYP4gjN7UpgThc4YkT4kW\nEBKd1/jbGNK4n6cne+o/f6LgmxtdOSApupqiIzdk58loOZwqwfa3Z27hKQ2aPweK\nzMuJxQIrVWLWU2k6qyJ+/4Ria+m0JAfoLOqwmKcAaTpVT/hdmgb1ZJDsR3gbiZM7\nU1LlbSQhAgMBAAECggEAB6yVH3UkG2tEDTGf0pzafGmoPo0cplHwV/eQbUfpedCe\n1V6BSyTDRdYY3IIunF2wbXwUinY8GWcOrhBGz0EBxpG0zU02cVDtaXlPX4sTCc6m\nndMjJns5zLSkGvhBEIlAbvYLMsf/bhjSsiiX/1F0KRwFRWPL6E/1sKRN/72EpcQT\n6wNhyWYv/Mha6xOLuvLz9qSsV1iZfiEwAhwX3p62FzQGiWM7XqR9DFYqcmGRAcLf\nArNZXJvJzdK2kjoj6nmJPaeccyUSQP/V1BMGO04/hfu0N0hnX/56NaENq6fuhTPt\nICTCw2UDIBNc9ayTIg2cto6WJZJcMJpiFDHT7rk6CQKBgQDs32Nm3+2wmotZfGla\nZssNX1HevTROVlyrxYog/Soz701TgN4Ex+yE6GDa85/SU4QlYFmfmzFPnOnirW/D\nyI//Ie34PY0spoo3lJLkJkeFue5WObiZauqpuPva2iVrtQMLmNZhXH2q9y+oAWic\nA+7wIytInyXQzIeCh+NGjfy8CwKBgQDSMNCwT9xTNF82AxJ8eYp9J6dnrJF/mjTI\nAFPayc2TO/gR/GHuNy80KEZNHkeSXEfPqtpXfgVEeobe6jxE0h0CKExPwiWKbHiK\nrLAStzEtntGMN5Gjntz2ScAE7t+FNbrKaOPPmWyBLNCI62lcFxH3uFtEU2q8Mzuc\n0e/vxsrQAwKBgDVPubGHqJlczwwe4h9Ej2K9F1IIR2NyMH1AgmwWTo9NxpuKn214\nCZWIL3RX7JqLzWwUGVfAuAJxEHrCCiuIUlBbtJFwWPu5p9YGjGDo9KP2StwBNbjh\nxVrZlWWWP2HUZZEQnv9er7Hw3Dr1xjOG9xn48F7x4rLxtXX9W3ufrUgtAoGAeBmq\ndMP9CZHoQU16F6O/DQpGbke9j2LGe+0r/NzIWTOv6F8EegAQOcY1fUUq8idGZROj\n1NBOJDW6sM64hz5jkuMBz6UInFKkgeBwbxE7yWxxIaRy1EIm0ZeMX4U6NLxhsdxD\nJ1DsHddEhKe2uQb5nkk55Q2g9E515oJSjfhR1I8CgYEAwEmzNHUzdz92CYGgW7hX\n849w5fYtg0OVKUUQAj/3w6G1tU7X9RSeHSWRHPF9LPPjdDHPqO6c5f2rG9H0I7c2\n8fF1LNl4I5/zJ96xzjHPqw0++zw9/4vaOEDRcTZ4oay8IcJi2qt+gMhUjYSU93Sa\nNQa9t+JNOLD0iAhqu2Qwo0I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ks2e2@nabula-gaming.iam.gserviceaccount.com",
+  "client_id": "107830453852401678933",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ks2e2%40nabula-gaming.iam.gserviceaccount.com"
+}
